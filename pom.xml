@@ -23,8 +23,10 @@
         <spring-cloud.version>2025.1.2</spring-cloud.version>
     </properties>
 
+
     <modules>
         <module>services/customer-service</module>
+        <module>services/api-gateway</module>
     </modules>
 
     <dependencyManagement>
